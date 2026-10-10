@@ -1,0 +1,626 @@
+ 
+   
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - A              Room No: I-306 
+Name of the Class In-charge: Ms P. Archana                                                                   w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM 
+9:55AM 
+9:55AM 
+10:50AM 
+10:50AM 
+–11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON TECHNICAL TRAINING(A-301) TECHNICAL TRAINING(A-301) 
+TUES DL EWP EWP COUN PSE-I (I-506) 
+WED EWP QALR-II(A-422) DL FOS LIB 
+THU EWP FOS DL OEC-I DL LAB (I-410) 
+FRI FOS FOS DL OEC-I EWP LAB (I-311) 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course   
+Code 
+Name of the Subject Credits 
+Lectures in 
+week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Ms P. Archana 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Ms P. Archana 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms  K Lavanya 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms  K Lavanya 
+PC 
+EMA3182 Foundations of Operating Systems  
+(FOS) 
+3 4 Ms. S. Anitha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms P. Archana 
+PC 
+ESE3101 Problem Solving in Engineering-I  
+(PSE-I) 
+2 3 Ms P. Archana, Ms Shweta Kumari 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr.D.Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 3 7 Mr. Vineeth 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+ 
+Group mail id of AIML – A students: aimla2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML   Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - B             Room No: I-507 
+Name of the Class In-charge: Ms N V Shreesha                                                      w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM 
+– 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON DL EWP FOS DL EWP LAB (I-510) 
+TUES TECHNICAL TRAINING(A-301) TECHNICAL TRAINING(A-301) 
+WED FOS PSE-I(I-506) FOS EWP OEC-I 
+THU DL QALR-II(A-301) DL LAB (I-411) 
+FRI EWP DL OEC-I COUN EWP FOS LIB 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Ms M  Swarnalatha 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Ms M  Swarnalatha 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms N V Shreesha 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms N V Shreesha 
+PC 
+EMA3182 Foundations of Operating Systems  
+(FOS) 
+3 4 Ms. S. Anitha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms N V Shreesha 
+PC 
+ESE3101 Problem Solving in Engineering-I  
+(PSE-I) 
+2 3 Mr. T. Bala Krishna, Ms. N. V. Shireesha 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr.D.Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Vineeth 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – B students:aimlb2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML   Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - C              Room No: I-508 
+Name of the Class In-charge: Ms R. Kiruthiga                                                                 w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55 AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON FOS DL EWP OEC-I DL LAB (I-410) 
+TUES TECHNICAL TRAINING(A-301) TECHNICAL TRAINING(A-301) 
+WED FOS PSE-I(I-506) EWP LAB (I-410) 
+THU EWP QALR-II(A-301) DL FOS COUN 
+FRI EWP DL EWP LIB DL FOS OEC-I 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Ms R. Kiruthiga 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Ms R. Kiruthiga 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms. P. Chamundeshwari 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms. P. Chamundeshwari 
+PC 
+EMA3182 Foundations of Operating Systems 
+ (FOS) 
+3 4 Dr B Devender 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms R. Kiruthiga 
+PC 
+ESE3101 Problem Solving in Engineering-I 
+ (PSE-I) 
+2 3 
+Ms R. Kiruthiga, Ms. P. Archana 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr.D.Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Vineeth 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – C students: aimlc2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML    Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - D              Room No: I-602 
+Name of the Class In-charge: Ms. S. Anitha                                                                   w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON DL FOS EWP DL EWP LAB (I-311) 
+TUES FOS PSE-I(I-506) DL LAB (I-311) 
+WED TECHNICAL TRAINING(E-704) TECHNICAL TRAINING(E-704) 
+THU EWP DL FOS COUN QALR-II(A-422) 
+FRI EWP EWP FOS DL OEC-I OEC-I LIB 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Ms R. Kiruthiga 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Ms R. Kiruthiga 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms. Ch. Padmini 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms. Ch. Padmini 
+PC 
+EMA3182 Foundations of Operating Systems 
+(FOS) 
+3 4 Dr. B. Devender 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms  K Lavanya 
+PC 
+ESE3101 Problem Solving in Engineering-I  
+(PSE-I) 
+2 3 Dr. K. Anand, Ms S. Anitha 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. V. Shashidhar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I 
+(TT) 
+3 7 Mr. Vikram 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – D students: aimld2024-2028@anurag.edu.in 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML   Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - E              Room No: I-405 
+Name of the Class In-charge: Dr. A. Udaya Kumar                                                          w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM 
+– 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+TUES DL EWP OEC-I COUN DL LAB (I-510) 
+WED EWP FOS FOS OEC-I EWP LAB (I-311) 
+THU FOS EWP DL DL QALR-II (A-301) 
+FRI DL EWP FOS LIB PSE-I(I-506) 
+SAT TECHNICAL TRAINING (I-206) TECHNICAL TRAINING (I-206) 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Mr. T. Bala Krishna                                                             
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Mr. T. Bala Krishna                                                             
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Dr. A. Udaya Kumar 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Dr. A. Udaya Kumar 
+PC EMA3182 Foundations of Operating Systems (FOS) 3 4 Ms. T. Neetha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Dr. A. Udaya Kumar 
+PC 
+ESE3101 Problem Solving in Engineering-I  
+(PSE-I) 
+2 3 Dr. A. Udaya Kumar 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. D. Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Vikram 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – E students:aimle2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML    Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - F              Room No: I-405 
+Name of the Class In-charge: Mr. T. Bala Krishna                                                            w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40 PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+TUES DL EWP OEC-I COUN EWP LAB (I-410) 
+WED EWP FOS FOS OEC-I DL LAB (I-411) 
+THU FOS EWP DL DL QALR-II (A-301) 
+FRI DL EWP FOS LIB PSE-I(I-506) 
+SAT TECHNICAL TRAINING (I-206) TECHNICAL TRAINING (I-206) 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Mr. T. Bala Krishna                                                             
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Mr. T. Bala Krishna                                                             
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Dr. A. Udaya Kumar 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Dr. A. Udaya Kumar 
+PC 
+EMA3182 Foundations of Operating Systems  
+(FOS) 
+3 4 
+Ms. T. Neetha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Mr. T. Bala Krishna,  
+PC 
+ESE3101 Problem Solving in Engineering-I 
+ (PSE-I) 
+2 3 Mr. T. Bala Krishna, Ms M  Swarnalatha 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. D. Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Vikram 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML –F students: aimlf2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML   Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - G              Room No: I-502/507 
+ Name of the Class In-charge: Mr. N. Satheesh                                                                  w.e.f: 29th June 2026 
+ 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM –
+11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON EWP(I-405) PSE-I(I-506) DL LAB (I-411) 
+TUES DL(I-507) DL(I-507) EWP(I-507) OCE-I(I-507) EWP LAB (I-411) 
+WED TECHNICAL TRAINING(E-704) TECHNICAL TRAINING(E-704) 
+THU DL(I-502) EWP(I-502) FOS(I-502) FOS(I-502) QALR-II(A-422) 
+FRI FOS(I-306) EWP(I-602) DL(I-602) COUN(I-602) FOS(I-406) OCE-I(I-406) LIB 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Mr. N. Satheesh 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Mr. N. Satheesh 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms. N. V. Shireesha 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab (EWP 
+LAB) 
+1 3 Ms. N. V. Shireesha 
+PC EMA3182 Foundations of Operating Systems (FOS) 3 4 Ms. T. Neetha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Mr. N. Satheesh 
+PC ESE3101 Problem Solving in Engineering-I (PSE-I) 2 3 Mr. N. Satheesh ,Dr. A. Udaya Kumar 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. V. Shashidhar 
+PC 
+EMA3151/52 Full Stack Development Using Java (FSD)/ 
+Competitive Programming-I (TT) 
+3 7 Mr. Vikram 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – G students: aimlg2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML    Dean- SoE 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - H              Room No: I-506/507 
+Name of the Class In-charge: Ms. P. Chamundeshwari                                                     w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM 
+–11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM – 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 
+4:05PM 
+MON NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+TUES EWP(I-506) PSE-I(I-506) DL(I-507) FOS(I-507) OCE-I(I-507) 
+WED EWP(I-506) QALR-II(A-422) DL LAB (I-510) 
+THU FOS(I-506) EWP LAB (I-511) EWP(I-406) EWP(I-406) DL(I-406) 
+FRI 
+DL(I-506) FOS(I-602) OEC-I(I-602) 
+COUN 
+(I-602) 
+FOS(I-507) DL(I-507) LIB 
+SAT TECHNICAL TRAINING(H-514) TECHNICAL TRAINING(H-514) 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Mr. N. Satheesh 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Mr. N. Satheesh 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms. P. Chamundeshwari 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms. P. Chamundeshwari 
+PC EMA3182 Foundations of Operating Systems (FOS) 3 4 Ms P Revathi 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms. P. Chamundeshwari 
+PC 
+ESE3101 Problem Solving in Engineering-I 
+ (PSE-I) 
+2 3 
+Ms T Neetha, Ms. P. Chamundeshwari 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. D. Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Venu 
+MC  A55091  NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – H students: aimlh2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML   Dean- SoE 
+ 
+ 
+ 
+TIME TABLE 
+Year & Sem:  B. Tech III Year I Sem  A.Y: 2026 – 2027               Regulation: R24 
+Branch & Section: AIML - J              Room No: I-306 
+Name of the Class In-charge: Ms. K. Lavanya                                                       w.e.f: 29th June 2026 
+Day \ 
+Time 
+9:00AM – 
+9:55AM 
+9:55AM – 
+10:50AM 
+10:50AM 
+–11:45AM 
+11:45AM – 
+12:40PM 
+LUNCH 
+1:20PM 
+– 
+2:15PM 
+2:15PM - 
+3:10PM 
+3:10PM – 4:05PM 
+MON TECHNICAL TRAINING(A-301) TECHNICAL TRAINING(A-301) 
+TUES DL EWP FOS COUN PSE-I (I-506) 
+WED EWP QALR-II(A-422) DL FOS LIB 
+THU EWP FOS DL OEC-I DL LAB (I-410) 
+FRI FOS EWP DL OEC-I EWP LAB (I-311) 
+SAT NSO / NSS / OUTREACH / CLUB ACTIVITIES SPORTS 
+ 
+Category 
+Course  
+Code 
+Name of the Subject Credits 
+Lectures 
+in week 
+Name of the Faculty 
+PC EMA3180 Deep Learning (DL) 3 4 Ms P. Archana 
+PC-Lab EMA3180P Deep Learning Lab (DL LAB) 1 3 Ms P. Archana 
+PC EMA3181 Essentials of Web Programming (EWP) 3 4 Ms  K Lavanya 
+PC-Lab 
+EMA3181P Essentials of Web Programming Lab 
+(EWP LAB) 
+1 3 Ms  K Lavanya 
+PC EMA3182 Foundations of Operating Systems (FOS) 3 4 Ms. S. Anitha 
+OEC-I ESI3X01 Open Elective-I / Summer Internship 3 3 Ms. S. Anitha 
+PC 
+ESE3101 Problem Solving in Engineering-I  
+(PSE-I) 
+2 3  Ms. T. Neetha, Ms  K Lavanya, 
+BS 
+EMI3105 Quantitative Aptitude and Logical 
+Reasoning-II (QALR-II) 
+1 3 Mr. D. Harish Kumar 
+PC 
+EMA3151/52 Full Stack Development Using Java 
+(FSD)/ Competitive Programming-I (TT) 
+3 7 Mr. Vineeth 
+MC  A55091   NSO/NSS 0   
+ LIB Library    
+ COUN Counseling    
+      
+      
+ 
+Group mail id of AIML – J students: aimlj2024-2028@anurag.edu.in 
+ 
+ 
+Class In-charge   Academic Coordinator   HoD – AIML    Dean- SoE 
