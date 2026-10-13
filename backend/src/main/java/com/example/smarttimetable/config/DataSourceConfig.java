@@ -74,16 +74,12 @@ public class DataSourceConfig {
         }
 
         if (useFallback) {
-            File dataDir = new File("./data");
-            if (!dataDir.exists()) {
-                dataDir.mkdirs();
-            }
-            targetUrl = "jdbc:h2:file:./data/smart_timetable_db;DB_CLOSE_DELAY=-1;MODE=MySQL;NON_KEYWORDS=USER";
+            targetUrl = "jdbc:h2:mem:smart_timetable_db;DB_CLOSE_DELAY=-1;MODE=MySQL;NON_KEYWORDS=USER";
             targetDriver = "org.h2.Driver";
             targetUser = "sa";
             targetPass = "";
             config.setConnectionTestQuery("SELECT 1");
-            log.info("✓ Using persistent embedded database fallback: {}", targetUrl);
+            log.info("✓ Using in-memory fallback database for cloud deployment: {}", targetUrl);
         } else {
             config.setConnectionTestQuery("SELECT 1");
         }
