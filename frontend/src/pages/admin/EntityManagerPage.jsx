@@ -251,7 +251,7 @@ export default function EntityManagerPage({ type = 'faculty' }) {
             <div className="mt-1 text-2xl font-extrabold text-emerald-600 font-mono">
               {healthInfo?.status || 'UP'}
             </div>
-            <span className="text-[10px] text-slate-400">Port 8081 • Spring Boot 3.3.4</span>
+            <span className="text-[10px] text-slate-400">Cloud API • Spring Boot 3.3.4</span>
           </div>
 
           <div className="card p-3 border-l-4 border-l-indigo-600 bg-white">

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { checkHealth } from '../services/api';
+import { checkHealth, API_BASE_URL } from '../services/api';
 import { 
   Server, 
   Database, 
@@ -58,7 +58,7 @@ export default function PhaseVerificationPage() {
       setLastChecked(new Date().toLocaleTimeString());
     } catch (err) {
       console.error("Health check error:", err);
-      setError(err.message || "Failed to reach Spring Boot Backend at http://localhost:8081");
+      setError(err.message || `Failed to reach Spring Boot Backend at ${API_BASE_URL}`);
       setLastChecked(new Date().toLocaleTimeString());
     } finally {
       setLoading(false);
@@ -140,7 +140,7 @@ export default function PhaseVerificationPage() {
               <div>
                 <h3 style={{ fontSize: '1.1rem', fontWeight: 700 }}>Spring Boot Backend</h3>
                 <p style={{ fontSize: '0.8rem', color: 'var(--text-dim)', fontFamily: 'var(--font-mono)' }}>
-                  http://localhost:8081
+                  {API_BASE_URL.replace('/api', '')}
                 </p>
               </div>
             </div>

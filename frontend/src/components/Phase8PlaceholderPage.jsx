@@ -22,7 +22,7 @@ export default function Phase8PlaceholderPage({ moduleName, description, icon: I
             <span>Module coming in the next implementation phase.</span>
           </div>
           <p className="placeholder-subtext">
-            All corresponding backend JPA entities, Spring Data repositories, transactional services, and REST APIs are already compiled and active on port 8081.
+            All corresponding backend JPA entities, Spring Data repositories, transactional services, and REST APIs are already compiled and active in the Spring Boot backend.
           </p>
           <Link to="/admin/dashboard" className="btn-secondary-link">
             <span>Return to Command Center</span>

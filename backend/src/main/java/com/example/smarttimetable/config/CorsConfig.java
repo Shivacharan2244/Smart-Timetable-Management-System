@@ -18,7 +18,11 @@ public class CorsConfig {
                                 "http://localhost:5173",
                                 "http://127.0.0.1:5173",
                                 "http://localhost:3000",
-                                "http://localhost:*"
+                                "http://localhost:*",
+                                "https://*.onrender.com",
+                                "https://*.vercel.app",
+                                "https://*.netlify.app",
+                                "*"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH")
                         .allowedHeaders("*")
