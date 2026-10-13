@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Smart Timetable Management System",
+  "workspaces": [
+    "frontend"
+  ],
   "scripts": {
     "dev": "npm --prefix frontend run dev",
     "frontend": "npm --prefix frontend run dev",
