@@ -43,18 +43,19 @@ public class DatabaseConnectionVerifier implements CommandLineRunner {
             logger.info("✓ Connected to MySQL Database: {}", connection.getCatalog());
             logger.info("  DBMS Version: {}", metaData.getDatabaseProductVersion());
 
-            // Query created tables in smart_timetable_db
+            // Query created tables in current database schema
+            String currentSchema = connection.getCatalog() != null ? connection.getCatalog() : "smart_timetable_db";
             List<String> tables = new ArrayList<>();
             try (Statement statement = connection.createStatement();
                  ResultSet rs = statement.executeQuery(
                          "SELECT table_name FROM information_schema.tables " +
-                         "WHERE table_schema = 'smart_timetable_db' ORDER BY table_name")) {
+                         "WHERE table_schema = '" + currentSchema + "' ORDER BY table_name")) {
                 while (rs.next()) {
                     tables.add(rs.getString("table_name"));
                 }
             }
 
-            logger.info("✓ Discovered {} tables in MySQL 'smart_timetable_db':", tables.size());
+            logger.info("✓ Discovered {} tables in database schema '{}':", tables.size(), currentSchema);
             for (String tableName : tables) {
                 logger.info("   -> [TABLE] {}", tableName);
             }
