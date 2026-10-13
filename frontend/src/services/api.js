@@ -7,7 +7,7 @@ export const API_BASE_URL = (
 
 const api = axios.create({
   baseURL: API_BASE_URL,
-  timeout: 30000,
+  timeout: 60000,
   headers: {
     'Content-Type': 'application/json',
   },
@@ -110,6 +110,7 @@ export const uploadService = {
       headers: {
         'Content-Type': 'multipart/form-data',
       },
+      timeout: 180000, // 3 minutes specifically for multi-page PDF parsing, OCR, and table extraction
     });
     return response.data;
   },

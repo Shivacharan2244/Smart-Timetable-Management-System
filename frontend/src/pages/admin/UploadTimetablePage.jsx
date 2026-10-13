@@ -148,7 +148,10 @@ export default function UploadTimetablePage() {
       clearInterval(stepInterval);
       setIsProcessing(false);
       setCurrentStepIndex(-1);
-      const msg = err.response?.data?.message || err.message || 'Failed to upload and parse timetable PDF.';
+      let msg = err.response?.data?.message || err.message || 'Failed to upload and parse timetable PDF.';
+      if (err.code === 'ECONNABORTED' || (err.message && err.message.toLowerCase().includes('timeout'))) {
+        msg = 'Upload & parsing timed out. Large multi-page PDF documents or cloud cold-starts require extra processing time. Please try again.';
+      }
       setErrorMessage(msg);
     }
   };
