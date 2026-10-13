@@ -73,6 +73,13 @@
             <scope>runtime</scope>
         </dependency>
 
+        <!-- H2 Database (Fallback for cloud deployments when external MySQL is not configured) -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
 
         <!-- Apache PDFBox for Timetable PDF Parsing -->
         <dependency>

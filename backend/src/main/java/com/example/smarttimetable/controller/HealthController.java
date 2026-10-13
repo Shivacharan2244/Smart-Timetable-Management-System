@@ -49,16 +49,27 @@ public class HealthController {
             dbInfo.put("productName", metaData.getDatabaseProductName());
             dbInfo.put("productVersion", metaData.getDatabaseProductVersion());
 
-            // Query created tables in smart_timetable_db
+            // Query created tables in database
             List<String> tables = new ArrayList<>();
-            try (Statement statement = connection.createStatement();
-                 ResultSet rs = statement.executeQuery(
-                         "SELECT table_name FROM information_schema.tables " +
-                         "WHERE table_schema = 'smart_timetable_db' ORDER BY table_name")) {
+            try (ResultSet rs = metaData.getTables(connection.getCatalog(), null, "%", new String[]{"TABLE"})) {
                 while (rs.next()) {
-                    tables.add(rs.getString("table_name"));
+                    String tName = rs.getString("TABLE_NAME");
+                    if (tName != null) {
+                        tables.add(tName.toLowerCase());
+                    }
                 }
+            } catch (Exception ex) {
+                String currentSchema = connection.getCatalog() != null ? connection.getCatalog() : "smart_timetable_db";
+                try (Statement statement = connection.createStatement();
+                     ResultSet rs = statement.executeQuery(
+                             "SELECT table_name FROM information_schema.tables " +
+                             "WHERE table_schema = '" + currentSchema + "' ORDER BY table_name")) {
+                    while (rs.next()) {
+                        tables.add(rs.getString("table_name"));
+                    }
+                } catch (Exception ignored) {}
             }
+            tables.sort(String::compareTo);
 
             dbInfo.put("tableCount", tables.size());
             dbInfo.put("tables", tables);
