@@ -156,7 +156,7 @@ public class SubjectServiceImpl implements SubjectService {
     }
 
     private SubjectDTO mapToDTO(Subject s) {
-        return new SubjectDTO(
+        SubjectDTO dto = new SubjectDTO(
                 s.getSubjectId(),
                 s.getSubjectName(),
                 s.getSubjectCode(),
@@ -166,5 +166,9 @@ public class SubjectServiceImpl implements SubjectService {
                 s.getSemester() != null ? s.getSemester().getSemesterName() : null,
                 s.getStatus()
         );
+        if (s.getDepartment() != null) {
+            dto.setDepartmentCode(s.getDepartment().getDepartmentCode());
+        }
+        return dto;
     }
 }

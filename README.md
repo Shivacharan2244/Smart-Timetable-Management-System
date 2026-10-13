@@ -57,6 +57,23 @@ spring.datasource.password=root
 
 ### Running the Application
 
+#### Option A: Running with Docker (Recommended for Containerized Setup)
+Ensure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed and running on your system, then run:
+```bash
+docker compose up --build
+```
+This boots up:
+- **MySQL Container**: Port 3306 with initialized `smart_timetable_db`
+- **Backend Container**: Port 8081 with Spring Boot application
+- **Frontend Container**: Port 5173 with Nginx reverse proxy to API
+
+To stop containers:
+```bash
+docker compose down
+```
+
+#### Option B: Running Locally
+
 1. **Start the Backend**:
    ```bash
    cd backend

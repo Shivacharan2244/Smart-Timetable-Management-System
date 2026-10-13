@@ -339,7 +339,7 @@ public class FacultyServiceImpl implements FacultyService {
     }
 
     private FacultyDTO mapToDTO(Faculty f) {
-        return new FacultyDTO(
+        FacultyDTO dto = new FacultyDTO(
                 f.getFacultyId(),
                 f.getFacultyName(),
                 f.getFacultyCode(),
@@ -348,5 +348,9 @@ public class FacultyServiceImpl implements FacultyService {
                 f.getDepartment() != null ? f.getDepartment().getDepartmentName() : null,
                 f.getStatus()
         );
+        if (f.getDepartment() != null) {
+            dto.setDepartmentCode(f.getDepartment().getDepartmentCode());
+        }
+        return dto;
     }
 }

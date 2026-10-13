@@ -21,3 +21,14 @@ Write-Host "`nSECTIONS COUNT: $($secs.data.Count)"
 $secs.data | ForEach-Object { Write-Host " Sec ID: $($_.sectionId), Name: $($_.sectionName), Dept ID: $($_.departmentId), Sem ID: $($_.semesterId)" }
 
 Write-Host "`nENTRIES COUNT: $($entries.data.Count)"
+
+Write-Host "`nSAMPLE SECTION:"
+($secs.data[0] | ConvertTo-Json)
+
+$fac = Invoke-RestMethod -Uri "$baseUrl/faculties" -Method Get -Headers $headers
+Write-Host "`nSAMPLE FACULTY:"
+($fac.data[0] | ConvertTo-Json)
+
+$sub = Invoke-RestMethod -Uri "$baseUrl/subjects" -Method Get -Headers $headers
+Write-Host "`nSAMPLE SUBJECT:"
+($sub.data[0] | ConvertTo-Json)

@@ -1,0 +1,9 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+scratch/
+uploads/
+*.log
+.git/
+.gitignore

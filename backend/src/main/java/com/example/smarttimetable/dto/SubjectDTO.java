@@ -16,6 +16,7 @@ public class SubjectDTO {
     private Long departmentId;
 
     private String departmentName;
+    private String departmentCode;
 
     @NotNull(message = "Semester ID is required.")
     private Long semesterId;
@@ -76,6 +77,14 @@ public class SubjectDTO {
 
     public void setDepartmentName(String departmentName) {
         this.departmentName = departmentName;
+    }
+
+    public String getDepartmentCode() {
+        return departmentCode;
+    }
+
+    public void setDepartmentCode(String departmentCode) {
+        this.departmentCode = departmentCode;
     }
 
     public Long getSemesterId() {

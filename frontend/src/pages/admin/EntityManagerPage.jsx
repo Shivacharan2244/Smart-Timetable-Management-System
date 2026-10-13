@@ -182,12 +182,28 @@ export default function EntityManagerPage({ type = 'faculty' }) {
 
   const hasDepartment = ['faculty', 'subjects', 'sections'].includes(type);
 
+  // Resolve matching department object regardless of whether selectedDept is departmentId, code, or name
+  const selectedDeptObj = departments.find(
+    (d) =>
+      (selectedDept && String(d.departmentId) === String(selectedDept)) ||
+      (d.departmentCode && d.departmentCode.toLowerCase() === String(selectedDept).toLowerCase()) ||
+      (d.departmentName && d.departmentName.toLowerCase() === String(selectedDept).toLowerCase())
+  );
+
   const filteredData = data.filter((item) => {
     if (selectedDept && hasDepartment) {
       const matchDept =
+        // 1. Direct match with selectedDept string (ID, code, or name)
         (item.departmentId && String(item.departmentId) === String(selectedDept)) ||
-        (item.departmentCode && item.departmentCode.toLowerCase() === selectedDept.toLowerCase()) ||
-        (item.departmentName && item.departmentName.toLowerCase() === selectedDept.toLowerCase());
+        (item.departmentCode && item.departmentCode.toLowerCase() === String(selectedDept).toLowerCase()) ||
+        (item.departmentName && item.departmentName.toLowerCase() === String(selectedDept).toLowerCase()) ||
+        // 2. Match against resolved department object
+        (selectedDeptObj && (
+          (item.departmentId && String(item.departmentId) === String(selectedDeptObj.departmentId)) ||
+          (item.departmentCode && selectedDeptObj.departmentCode && item.departmentCode.toLowerCase() === selectedDeptObj.departmentCode.toLowerCase()) ||
+          (item.departmentName && selectedDeptObj.departmentName && item.departmentName.toLowerCase() === selectedDeptObj.departmentName.toLowerCase())
+        ));
+
       if (!matchDept) return false;
     }
     if (selectedYear && type === 'sections') {
@@ -303,13 +319,13 @@ export default function EntityManagerPage({ type = 'faculty' }) {
                 const isSelected =
                   selectedDept &&
                   (String(d.departmentId) === String(selectedDept) ||
-                    (d.departmentCode && d.departmentCode.toLowerCase() === selectedDept.toLowerCase()) ||
-                    (d.departmentName && d.departmentName.toLowerCase() === selectedDept.toLowerCase()));
+                    (d.departmentCode && d.departmentCode.toLowerCase() === String(selectedDept).toLowerCase()) ||
+                    (d.departmentName && d.departmentName.toLowerCase() === String(selectedDept).toLowerCase()));
                 return (
                   <button
                     key={d.departmentId}
                     type="button"
-                    onClick={() => setSelectedDept(isSelected ? '' : (d.departmentCode || d.departmentName))}
+                    onClick={() => setSelectedDept(isSelected ? '' : String(d.departmentId))}
                     className={`btn-perspective ${isSelected ? 'active' : ''}`}
                     title={`Show only ${d.departmentName}`}
                   >
@@ -358,13 +374,13 @@ export default function EntityManagerPage({ type = 'faculty' }) {
                 <span className="filter-badge">({departments.length} Depts)</span>
               </label>
               <select
-                value={selectedDept}
+                value={selectedDeptObj ? String(selectedDeptObj.departmentId) : selectedDept}
                 onChange={(e) => setSelectedDept(e.target.value)}
                 className="filter-field-select"
               >
                 <option value="">All Departments</option>
                 {departments.map((d) => (
-                  <option key={d.departmentId} value={d.departmentCode || d.departmentName}>
+                  <option key={d.departmentId} value={String(d.departmentId)}>
                     {d.departmentName} ({d.departmentCode})
                   </option>
                 ))}
@@ -408,7 +424,7 @@ export default function EntityManagerPage({ type = 'faculty' }) {
               REGISTERED RECORDS ({filteredData.length})
               {selectedDept && (
                 <span className="ml-2 text-indigo-600 font-bold">
-                  • Filtered by {departments.find(d => String(d.departmentId) === String(selectedDept) || d.departmentCode === selectedDept || d.departmentName === selectedDept)?.departmentName || selectedDept}
+                  • Filtered by {selectedDeptObj?.departmentName || selectedDept}
                 </span>
               )}
             </span>

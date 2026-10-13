@@ -163,6 +163,21 @@ export default function LiveClassesPage() {
     if (selectedSection && c.sectionName !== selectedSection) {
       return false;
     }
+    // Department filter
+    if (selectedDept) {
+      const selectedDeptObj = departments.find(
+        (d) =>
+          String(d.departmentId) === String(selectedDept) ||
+          (d.departmentCode && d.departmentCode.toLowerCase() === String(selectedDept).toLowerCase()) ||
+          (d.departmentName && d.departmentName.toLowerCase() === String(selectedDept).toLowerCase())
+      );
+      if (selectedDeptObj) {
+        const secMatch = sections.find((s) => s.sectionName === c.sectionName);
+        if (secMatch && secMatch.departmentId && secMatch.departmentId !== selectedDeptObj.departmentId) {
+          return false;
+        }
+      }
+    }
     // Search query
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
